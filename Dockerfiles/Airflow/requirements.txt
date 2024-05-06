@@ -1,0 +1,3 @@
+minio
+python-dotenv
+apache-airflow-providers-trino

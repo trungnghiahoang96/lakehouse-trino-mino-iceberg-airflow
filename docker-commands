@@ -1,0 +1,6 @@
+docker build -t customize_airflow:latest ./Dockerfiles/Airflow
+
+
+docker compose up
+
+docker compose down -v
